@@ -42,8 +42,18 @@
   <link href='{{ "css/webfonts.min.css" | relURL }}' rel="stylesheet" />
   {{ end }}
   <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
-    <div class="items-center text-xl text-grey-900 mr-6">
+    <!-- <div class="items-center text-xl text-grey-900 mr-6">
       {{ .Site.Params.site.name }}
+    </div> -->
+    <div>
+      <div class="items-center text-xl text-gray-100 mr-6">
+        {{ .Site.Params.site.name }}
+      </div>
+      <div class="text-sm text-gray-400">
+        울산시 중구 종가로 651 굿프라임2빌딩 404호 <br>
+        E-mail : jonetec@jonetec.co.kr <br>
+        Tel : 052-291-1786
+      </div>
     </div>
     <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
       <div class="text-lg lg:flex-grow">

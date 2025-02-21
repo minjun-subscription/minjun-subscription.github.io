@@ -6,9 +6,12 @@
             {{if .link }}<a href="{{ .link }}">{{ end }}
                 <div
                     class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
-                    <div class="p-1">
+                    <div class="p-1 flex flex-col justify-center items-center">
                         {{if .icon }}
                         <span class="{{ .icon }} text-5xl"></span>
+                        {{ end }}
+                        {{if .icon_svg }}
+                        <img class="w-14" src="{{ .icon_svg }}" />
                         {{ end }}
                         <h2 class="text-2xl">{{ .title }}</h2>
                         <p class="sans">{{ .description | markdownify }}</p>

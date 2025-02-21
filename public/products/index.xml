@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on Tella</title>
+    <title>Products on 제이원텍(주)</title>
     <link>http://localhost:1313/products/</link>
-    <description>Recent content in Products on Tella</description>
+    <description>Recent content in Products on 제이원텍(주)</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>ko</language>
     <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Project</title>
-      <link>http://localhost:1313/products/example/</link>
+      <title>분진폭발 방지 시스템</title>
+      <link>http://localhost:1313/products/iep/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:1313/products/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/products/iep/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;IEP Technologies는 60년 이상 폭발 방지 시스템 및 서비스를 제공하는 세계적인 기업입니다.&lt;br&gt;&#xA;제이원텍에서는 공정내의 가연성분진과 하이브리드 분진에 의한 폭발을 완화, 차단 및 억제하는 시스템을 공급합니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>소방 제품</title>
+      <link>http://localhost:1313/products/fire/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/fire/</guid>
+      <description>&lt;h2 id=&#34;fire-suppression-system&#34;&gt;Fire Suppression System&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/%EC%86%8C%EB%B0%A9%EC%A0%9C%ED%92%88/anyfire/&#34;&gt;&lt;strong&gt;할로겐화합물 소화시스템(AnyFire)&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&#xA;(AnyFire Clean Agent Fire Suppression Systems)&lt;/p&gt;&#xA;&lt;figure class=&#34;w-75 flex flex-col items-center justify-center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/product/fire1.png&#34;&#xA;    alt=&#34;AnyFire&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;AnyFire&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/%EC%86%8C%EB%B0%A9%EC%A0%9C%ED%92%88/firedos/&#34;&gt;&lt;strong&gt;폼 소화설비(Foam System)&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&#xA;(FireDos PRESSURE SIDE PROPORTIONER)&lt;/p&gt;&#xA;&lt;figure class=&#34;w-75 flex flex-col items-center justify-center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/product/fire2.png&#34;&#xA;    alt=&#34;FireDos&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;FireDos&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;fire-detection-system&#34;&gt;Fire Detection System&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/%EC%86%8C%EB%B0%A9%EC%A0%9C%ED%92%88/vesda/&#34;&gt;&lt;strong&gt;공기흡입형 화재감지기&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&#xA;(VESDA감지기)&lt;/p&gt;&#xA;&lt;figure class=&#34;w-75 flex flex-col items-center justify-center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/product/fire3.png&#34;&#xA;    alt=&#34;vesda&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;vesda&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>플랜트 제어시스템</title>
+      <link>http://localhost:1313/products/yokogawa/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/yokogawa/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;요꼬가와는 산업 자동화 및 측정 솔루션의 선도적인 공급업체입니다. 요꼬가와는 우수한 기술과 엔지니어링 서비스, 프로젝트 관리 및 유지보수를 결합하여 현장에서 입증된 운영 효율성, 안전, 품질 및 신뢰성을 제공합니다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

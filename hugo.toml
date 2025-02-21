@@ -1,14 +1,14 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
-languageCode = "en"
-DefaultContentLanguage = "en"
+baseURL = "https://jonetec.co.kr"
+title = "제이원텍(주)"
+author = "박민준"
+languageCode = "ko"
+DefaultContentLanguage = "ko"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
@@ -24,15 +24,15 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/logo.png"
+    alt = "제이원텍(주) Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "제이원텍(주)"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -53,27 +53,21 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "products"
-    name = "Products"
+    name = "제품소개"
     url = "/products/"
     weight = 1
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "최신소식"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "회사소개"
     url = "/about/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
 
   # Footer Menu
   [[menu.footer]]
@@ -81,8 +75,4 @@ enableRobotsTXT = true
     url = "/"
       weight = 1
 
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+
